@@ -37,5 +37,5 @@
 - **Machine Learning Frameworks:** TensorFlow, Keras
 
 ---
-- [Connect on LinkedIn](https://linkedin.com/in/your-profile)
+- [Connect on LinkedIn](https://www.linkedin.com/in/jared-maeyama-47b18422a/)
 
