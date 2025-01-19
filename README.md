@@ -1,10 +1,6 @@
 # Hi, I'm Jared 👋
 
 🎓 **Undergrad Student in Computer Science and Mathematics** at Santa Clara University  
-🤖 **Machine Learning Researcher** | ⚾ **Data Science in Sports Enthusiast**  
-
----
-
 
 
 ## Research
@@ -13,12 +9,12 @@
 - Proposed and developed a graph model to represent post-to-comment relation for improved social media analysis
 - Cleaned web scraped data for sentiment analysis, stance classification, and analysis from Psychology department
 
-### [🔒 Password Security with ML](Submitted for Publicaion)
+### 🔒 Password Security with ML (Submitted for Publicaion)
 - Designed evaluation metric based on NLP metrics (WER and ROUGE) to evaluate models on 100,000+ results
 - Generated and presented two supplementary charts of common prediction errors to primary investigators for feedback to refine project objectives through enhancing model evaluation metric
 - Employed Python scripts to preprocess and clean 200,000+ lines of data to improve model performance
 
-### [🌐 Graph Neural Networks for Popularity Prediction](in Progress)
+### 🌐 Graph Neural Networks for Popularity Prediction (in Progress)
 - Delivered literature reviews and two presentations on current GNN research papers to enhance understanding and evaluate applicability to research question
 - Integrated two research papers into model inorder to leverage strength of both
 
